@@ -14,7 +14,7 @@
 	<name>calc</name>
 	<description>List of names</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
